@@ -1,3 +1,4 @@
+(Yes this app is vibe-coded, don't disintegrate me. This only work when paired with an external server, [code can be found here](https://github.com/freshebred/grimac-web))
 # Fabric recorder
 
 Server-only recorder for **Minecraft 26.3**, **Fabric Loader 0.20.1+**, **Fabric API 0.165.2+26.3**, and **Java 25**. These versions were checked against Fabric's official 26.3 example and metadata. This jar is not compatible with older Minecraft versions. No client mod is needed.
